@@ -148,8 +148,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5914768605268572471}
-  - component: {fileID: 5914768605268572468}
-  - component: {fileID: 5914768605268572425}
+  - component: {fileID: 2777361505903515610}
+  - component: {fileID: 115609265}
   m_Layer: 0
   m_Name: VRCChair3_Jesvid
   m_TagString: Untagged
@@ -174,7 +174,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &5914768605268572468
+--- !u!114 &2777361505903515610
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -183,18 +183,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 5914768605268572469}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1073094524, guid: 661092b4961be7145bfbe56e1e62337b, type: 3}
+  m_Script: {fileID: 120943834, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   PlayerMobility: 1
-  canUseStationFromStation: 1
+  canUseStationFromStation: 0
   animatorController: {fileID: 0}
   disableStationExit: 0
   seated: 1
   stationEnterPlayerLocation: {fileID: 5914768604571835541}
   stationExitPlayerLocation: {fileID: 5914768604741419122}
   controlsObject: {fileID: 0}
---- !u!65 &5914768605268572425
+--- !u!65 &115609265
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
