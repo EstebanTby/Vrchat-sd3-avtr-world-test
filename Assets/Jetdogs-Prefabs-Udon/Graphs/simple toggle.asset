@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
   m_Name: simple toggle
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: bdab16d3ceda4674a8b892d8dca6c400,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: ea390c0275755bc46a7b5422ad1c9be9,
     type: 2}
   udonAssembly: ".data_start\r\n\r\n    .export Gameobjects\r\n    \r\n    __instance_0:
     %VRCUdonUdonBehaviour, this\r\n    __eventName_0: %SystemString, null\r\n   

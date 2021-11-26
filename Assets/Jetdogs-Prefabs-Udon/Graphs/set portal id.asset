@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
   m_Name: set portal id
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 735c9303ecae69e4fb286336b09ee033,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 08689f977fb465246977c0a447f9ab4f,
     type: 2}
   udonAssembly: ".data_start\r\n\r\n    .export portal\r\n    .export id\r\n    \r\n   
     __VRCPortalMarker_0: %VRCSDK3ComponentsVRCPortalMarker, null\r\n    __String_0:

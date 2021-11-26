@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
   m_Name: two way teleporter
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 9cc3e0c7d47bf6d40b8277b6e44fa478,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 08af77d50e20289448cb51d7eae355cd,
     type: 2}
   udonAssembly: ".data_start\r\n\r\n    .export teleportTo\r\n    .export otherteleporter\r\n   
     \r\n    __Boolean_0: %SystemBoolean, null\r\n    __Boolean_1: %SystemBoolean,
